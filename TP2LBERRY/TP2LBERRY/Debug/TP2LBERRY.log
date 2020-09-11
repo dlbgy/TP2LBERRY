@@ -1,0 +1,7 @@
+﻿  Score.cpp
+  main.cpp
+C:\Users\client\Documents\TravailPratique2_LBERRY\TP2LBERRY\TP2LBERRY\main.cpp(60,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\client\Documents\TravailPratique2_LBERRY\TP2LBERRY\TP2LBERRY\main.cpp(70,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\client\Documents\TravailPratique2_LBERRY\TP2LBERRY\TP2LBERRY\main.cpp(83,23): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...
+  TP2LBERRY.vcxproj -> C:\Users\client\Documents\TravailPratique2_LBERRY\TP2LBERRY\Debug\TP2LBERRY.exe
